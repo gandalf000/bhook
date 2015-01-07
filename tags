@@ -1,0 +1,1027 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	test/program/simple-control/simple.cpp	/^void A()$/;"	f
+A	test/program/simple/simple.cpp	/^void A()$/;"	f
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	preload/disk/Makefile	/^ACLOCAL = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	preload/memory/Makefile	/^ACLOCAL = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run aclocal-1.9$/;"	m
+ACLOCAL	preload/net/Makefile	/^ACLOCAL = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run aclocal-1.9$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	preload/disk/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	preload/memory/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	preload/net/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMDEP_FALSE	Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	preload/disk/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	preload/memory/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_FALSE	preload/net/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	preload/disk/Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	preload/memory/Makefile	/^AMDEP_TRUE = $/;"	m
+AMDEP_TRUE	preload/net/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run tar$/;"	m
+AMTAR	preload/disk/Makefile	/^AMTAR = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run tar$/;"	m
+AMTAR	preload/memory/Makefile	/^AMTAR = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run tar$/;"	m
+AMTAR	preload/net/Makefile	/^AMTAR = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run tar$/;"	m
+AM_CPPFLAGS	preload/disk/Makefile	/^AM_CPPFLAGS = -fPIC$/;"	m
+AM_CPPFLAGS	preload/memory/Makefile	/^AM_CPPFLAGS = -fPIC$/;"	m
+AM_CPPFLAGS	preload/net/Makefile	/^AM_CPPFLAGS = -fPIC$/;"	m
+AM_LDFLAGS	preload/disk/Makefile	/^AM_LDFLAGS = -shared$/;"	m
+AM_LDFLAGS	preload/memory/Makefile	/^AM_LDFLAGS = -shared$/;"	m
+AM_LDFLAGS	preload/net/Makefile	/^AM_LDFLAGS = -shared$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+ARFLAGS	Makefile	/^ARFLAGS = cru$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoconf$/;"	m
+AUTOCONF	preload/disk/Makefile	/^AUTOCONF = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoconf$/;"	m
+AUTOCONF	preload/memory/Makefile	/^AUTOCONF = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoconf$/;"	m
+AUTOCONF	preload/net/Makefile	/^AUTOCONF = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoheader$/;"	m
+AUTOHEADER	preload/disk/Makefile	/^AUTOHEADER = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoheader$/;"	m
+AUTOHEADER	preload/memory/Makefile	/^AUTOHEADER = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoheader$/;"	m
+AUTOHEADER	preload/net/Makefile	/^AUTOHEADER = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run automake-1.9$/;"	m
+AUTOMAKE	preload/disk/Makefile	/^AUTOMAKE = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run automake-1.9$/;"	m
+AUTOMAKE	preload/memory/Makefile	/^AUTOMAKE = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run automake-1.9$/;"	m
+AUTOMAKE	preload/net/Makefile	/^AUTOMAKE = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run automake-1.9$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+AWK	preload/disk/Makefile	/^AWK = gawk$/;"	m
+AWK	preload/memory/Makefile	/^AWK = gawk$/;"	m
+AWK	preload/net/Makefile	/^AWK = gawk$/;"	m
+AsmHelper	include/AsmHelper.h	/^class AsmHelper$/;"	c
+AttachFunc	include/Core.h	/^	int AttachFunc(char *func_name, void *hook_func) {$/;"	f	class:Core
+AttachFunc	src/HookImpl.cpp	/^int HookImpl::AttachFunc(void *func_plt, void *hook_func)$/;"	f	class:HookImpl
+AttachFunc	src/HookManager.cpp	/^int HookManager::AttachFunc(char *func_name, void *hook_func)$/;"	f	class:HookManager
+AttachFuncLib	include/Core.h	/^	int AttachFuncLib(char *func_name, void *hook_func, void **pold_func) {$/;"	f	class:Core
+AttachFuncLib	src/HookImpl.cpp	/^int HookImpl::AttachFuncLib(const BinaryFile::Symbol &symbol, void *hook_func, void **pold_func)$/;"	f	class:HookImpl
+AttachFuncLib	src/HookManager.cpp	/^int HookManager::AttachFuncLib(char *func_name, void *hook_func, void **pold_func)$/;"	f	class:HookManager
+B	test/program/simple-control/hook.cpp	/^int B()$/;"	f
+B	test/program/simple-control/simple.cpp	/^int B()$/;"	f
+B	test/program/simple/simple.cpp	/^int B()$/;"	f
+BACKLOG	test/net/connect/fserver.cpp	16;"	d	file:
+BHOOK_BIN	Makefile	/^BHOOK_BIN = \\$/;"	m
+BHOOK_BIN_IN	Makefile	/^BHOOK_BIN_IN = \\$/;"	m
+BHOOK_INCLUDE	Makefile	/^BHOOK_INCLUDE = \\$/;"	m
+BHOOK_SRC	Makefile	/^BHOOK_SRC = \\$/;"	m
+BHOOK_TEST	Makefile	/^BHOOK_TEST = \\$/;"	m
+BHOOK_TEST_ROOT	test/disk/user_write/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/memory/api/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/program/api/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/program/library/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/program/simple-control/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/program/simple/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/system/user_printf/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/unittest/class/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/unittest/sharedlibrary/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BHOOK_TEST_ROOT	test/unittest/simple/Makefile	/^BHOOK_TEST_ROOT=..\/..$/;"	m
+BINUTILS_PATH	Makefile	/^BINUTILS_PATH = $/;"	m
+BINUTILS_PATH	preload/disk/Makefile	/^BINUTILS_PATH = $/;"	m
+BINUTILS_PATH	preload/memory/Makefile	/^BINUTILS_PATH = $/;"	m
+BINUTILS_PATH	preload/net/Makefile	/^BINUTILS_PATH = $/;"	m
+BinaryFile	include/BinaryFile.h	/^class BinaryFile$/;"	c
+BinaryFile	src/BinaryFile.cpp	/^BinaryFile::BinaryFile()$/;"	f	class:BinaryFile
+C	test/program/simple-control/simple.cpp	/^void C()$/;"	f
+C	test/program/simple/simple.cpp	/^void C()$/;"	f
+CC	Makefile	/^CC = gcc$/;"	m
+CC	preload/disk/Makefile	/^CC = gcc$/;"	m
+CC	preload/memory/Makefile	/^CC = gcc$/;"	m
+CC	preload/net/Makefile	/^CC = gcc$/;"	m
+CC	test/unittest/class/Makefile	/^CC = g++$/;"	m
+CC	test/unittest/sharedlibrary/Makefile	/^CC = g++$/;"	m
+CC	test/unittest/simple/Makefile	/^CC = g++$/;"	m
+CC	test/unittest/simple/lib/Makefile	/^CC		= gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	preload/disk/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	preload/memory/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	preload/net/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	preload/disk/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	preload/memory/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	preload/net/Makefile	/^CFLAGS = -g -O2$/;"	m
+COMMAND_MAX_COUNT	include/Message.h	/^	static const int COMMAND_MAX_COUNT = 16;$/;"	m	class:Message
+COMMAND_MAX_LENGTH	include/Message.h	/^	static const int COMMAND_MAX_LENGTH = 1024;$/;"	m	class:Message
+COMMERRNO	preload/disk/fault_disk_file.cpp	20;"	d	file:
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES = scripts\/bhook test\/Makefile.env test\/RunEnv.sh$/;"	m
+CONFIG_CLEAN_FILES	preload/disk/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	preload/memory/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	preload/net/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/build-aux\/config.h$/;"	m
+CONFIG_HEADER	preload/disk/Makefile	/^CONFIG_HEADER = $(top_builddir)\/build-aux\/config.h$/;"	m
+CONFIG_HEADER	preload/memory/Makefile	/^CONFIG_HEADER = $(top_builddir)\/build-aux\/config.h$/;"	m
+CONFIG_HEADER	preload/net/Makefile	/^CONFIG_HEADER = $(top_builddir)\/build-aux\/config.h$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	preload/disk/Makefile	/^CPP = gcc -E$/;"	m
+CPP	preload/memory/Makefile	/^CPP = gcc -E$/;"	m
+CPP	preload/net/Makefile	/^CPP = gcc -E$/;"	m
+CPP	test/unittest/sharedlibrary/lib/Makefile	/^CPP		= g++$/;"	m
+CPP	test/unittest/simple/lib/Makefile	/^CPP		= g++$/;"	m
+CPPFILE	test/net/connect/Makefile	/^CPPFILE = $(wildcard *.cpp)$/;"	m
+CPPFILE	test/unittest/class/Makefile	/^CPPFILE=$(wildcard *.cpp)$/;"	m
+CPPFILE	test/unittest/sharedlibrary/Makefile	/^CPPFILE=$(wildcard *.cpp)$/;"	m
+CPPFILE	test/unittest/simple/Makefile	/^CPPFILE=$(wildcard *.cpp)$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	preload/disk/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	preload/memory/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	preload/net/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	preload/disk/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	preload/memory/Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	preload/net/Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXX	preload/disk/Makefile	/^CXX = g++$/;"	m
+CXX	preload/memory/Makefile	/^CXX = g++$/;"	m
+CXX	preload/net/Makefile	/^CXX = g++$/;"	m
+CXXCOMPILE	Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXCOMPILE	preload/disk/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXCOMPILE	preload/memory/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXCOMPILE	preload/net/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	preload/disk/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	preload/memory/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	preload/net/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	preload/disk/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	preload/memory/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	preload/net/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	test/memory/api/Makefile	/^CXXFLAGS=$(BHOOK_CXXFLAGS)$/;"	m
+CXXFLAGS	test/program/api/Makefile	/^CXXFLAGS=$(BHOOK_CXXFLAGS)$/;"	m
+CXXFLAGS	test/program/library/Makefile	/^CXXFLAGS = -I$(MYLIB)\/include $(BHOOK_CXXFLAGS)$/;"	m
+CXXFLAGS	test/program/library/lib/Makefile	/^CXXFLAGS	=	-Wall -g -D_REENTRANT -D_FILTER -D_DEBUG_ -DNDEBUG $/;"	m
+CXXFLAGS	test/program/simple-control/Makefile	/^CXXFLAGS=$(BHOOK_CXXFLAGS)$/;"	m
+CXXFLAGS	test/program/simple/Makefile	/^CXXFLAGS=$(BHOOK_CXXFLAGS)$/;"	m
+CXXFLAGS	test/unittest/class/Makefile	/^CXXFLAGS = -I$(MYLIB)\/include $(BHOOK_CXXFLAGS) $(GTEST_CXXFLAGS)$/;"	m
+CXXFLAGS	test/unittest/class/lib/Makefile	/^CXXFLAGS	=	-Wall -g -D_REENTRANT -D_FILTER -D_DEBUG_ -DNDEBUG $/;"	m
+CXXFLAGS	test/unittest/sharedlibrary/Makefile	/^CXXFLAGS = -I$(MYLIB)\/include $(BHOOK_CXXFLAGS) $(GTEST_CXXFLAGS)$/;"	m
+CXXFLAGS	test/unittest/sharedlibrary/lib/Makefile	/^CXXFLAGS	=	-Wall -g -D_REENTRANT -D_FILTER -D_DEBUG_ -DNDEBUG $/;"	m
+CXXFLAGS	test/unittest/simple/Makefile	/^CXXFLAGS = -I$(MYLIB)\/include $(BHOOK_CXXFLAGS) $(GTEST_CXXFLAGS)$/;"	m
+CXXFLAGS	test/unittest/simple/lib/Makefile	/^CXXFLAGS	=	-Wall -g -D_REENTRANT -D_FILTER -D_DEBUG_ -DNDEBUG $/;"	m
+CXXLD	Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLD	preload/disk/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLD	preload/memory/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLD	preload/net/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLINK	Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CXXLINK	preload/disk/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CXXLINK	preload/memory/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CXXLINK	preload/net/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	preload/disk/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	preload/memory/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	preload/net/Makefile	/^CYGPATH_W = echo$/;"	m
+Call	test/unittest/class/lib/mylib.cpp	/^int Person::Call()$/;"	f	class:MyLib::Person
+Copy	src/AsmHelper.cpp	/^int AsmHelper::Copy(bfd_byte *buf, int bufsize, bfd *abfd, void *src, unsigned int minsize, int *src_dis_len)$/;"	f	class:AsmHelper
+Core	include/Core.h	/^class Core$/;"	c
+Core	src/Core.cpp	/^Core::Core()$/;"	f	class:Core
+CreatePipe	src/Message.cpp	/^int Message::CreatePipe()$/;"	f	class:Message
+D	test/program/simple-control/simple.cpp	/^void D()$/;"	f
+D	test/program/simple/simple.cpp	/^void D()$/;"	f
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)\/build-aux$/;"	m
+DEFAULT_INCLUDES	preload/disk/Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)\/build-aux$/;"	m
+DEFAULT_INCLUDES	preload/memory/Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)\/build-aux$/;"	m
+DEFAULT_INCLUDES	preload/net/Makefile	/^DEFAULT_INCLUDES = -I. -I$(srcdir) -I$(top_builddir)\/build-aux$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	preload/disk/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	preload/memory/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEFS	preload/net/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	preload/disk/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	preload/memory/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	preload/net/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	preload/disk/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	preload/memory/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	preload/net/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(am__configure_deps) $(include_HEADERS) \\$/;"	m
+DIST_COMMON	preload/disk/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	preload/memory/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_COMMON	preload/net/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Makefile.in$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(libbhook_a_SOURCES) $(bhook_main_so_SOURCES)$/;"	m
+DIST_SOURCES	preload/disk/Makefile	/^DIST_SOURCES = $(fault_disk_so_SOURCES)$/;"	m
+DIST_SOURCES	preload/memory/Makefile	/^DIST_SOURCES = $(fault_memory_so_SOURCES)$/;"	m
+DIST_SOURCES	preload/net/Makefile	/^DIST_SOURCES = $(fault_net_so_SOURCES)$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DMGL_ANSI	include/BinaryFile.h	18;"	d
+DMGL_ANSI	src/BinaryFile.cpp	17;"	d	file:
+DMGL_PARAMS	include/BinaryFile.h	17;"	d
+DMGL_PARAMS	src/BinaryFile.cpp	16;"	d	file:
+DeletePipe	src/Message.cpp	/^void Message::DeletePipe()$/;"	f	class:Message
+Destroy	src/BinaryFile.cpp	/^void BinaryFile::Destroy()$/;"	f	class:BinaryFile
+Destroy	src/HookManager.cpp	/^void HookManager::Destroy()$/;"	f	class:HookManager
+Destroy	src/Message.cpp	/^void Message::Destroy()$/;"	f	class:Message
+DetachFunc	include/Core.h	/^	int DetachFunc(char *func_name) {$/;"	f	class:Core
+DetachFunc	src/HookImpl.cpp	/^int HookImpl::DetachFunc(void *func_plt)$/;"	f	class:HookImpl
+DetachFunc	src/HookManager.cpp	/^int HookManager::DetachFunc(char *func_name)$/;"	f	class:HookManager
+DetachFuncLib	include/Core.h	/^	int DetachFuncLib(char *func_name) {$/;"	f	class:Core
+DetachFuncLib	src/HookImpl.cpp	/^int HookImpl::DetachFuncLib(const BinaryFile::Symbol &symbol)$/;"	f	class:HookImpl
+DetachFuncLib	src/HookManager.cpp	/^int HookManager::DetachFuncLib(char *func_name)$/;"	f	class:HookManager
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	preload/disk/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	preload/memory/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	preload/net/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	preload/disk/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	preload/memory/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	preload/net/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	preload/disk/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	preload/memory/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	preload/net/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = grep -E$/;"	m
+EGREP	preload/disk/Makefile	/^EGREP = grep -E$/;"	m
+EGREP	preload/memory/Makefile	/^EGREP = grep -E$/;"	m
+EGREP	preload/net/Makefile	/^EGREP = grep -E$/;"	m
+ELFManager	include/ELFManager.h	/^	ELFManager() {}$/;"	f	class:ELFManager
+ELFManager	include/ELFManager.h	/^class ELFManager$/;"	c
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	preload/disk/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	preload/memory/Makefile	/^ETAGS = etags$/;"	m
+ETAGS	preload/net/Makefile	/^ETAGS = etags$/;"	m
+EXE	test/net/connect/Makefile	/^EXE = $(basename $(CPPFILE))$/;"	m
+EXE	test/unittest/class/Makefile	/^EXE=$(basename $(CPPFILE))$/;"	m
+EXE	test/unittest/sharedlibrary/Makefile	/^EXE=$(basename $(CPPFILE))$/;"	m
+EXE	test/unittest/simple/Makefile	/^EXE=$(basename $(CPPFILE))$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	preload/disk/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	preload/memory/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	preload/net/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = $(BHOOK_INCLUDE) $(BHOOK_BIN_IN) $(BHOOK_TEST)$/;"	m
+Elf_Ehdr	include/elfdef.h	/^}Elf_Ehdr;$/;"	t	typeref:struct:__anon1
+Elf_Shdr	include/elfdef.h	/^}Elf_Shdr;$/;"	t	typeref:struct:__anon2
+Elf_Sym	include/elfdef.h	/^}Elf_Sym;$/;"	t	typeref:struct:__anon3
+Enable	src/FaultUnit.cpp	/^bool FaultUnit::Enable() const$/;"	f	class:FaultUnit
+FAR_JMP_CODE_LEN	include/AsmHelper.h	25;"	d
+FAR_JMP_CODE_LEN	include/AsmHelper.h	27;"	d
+FAULT_	include/common.h	14;"	d
+FILE_NAME_MAX_SIZE	include/Message.h	/^	static const int FILE_NAME_MAX_SIZE = 64;$/;"	m	class:Message
+FarJmp	src/AsmHelper.cpp	/^int AsmHelper::FarJmp(bfd_byte *buf, int bufsize, bfd_vma jmpaddr)$/;"	f	class:AsmHelper
+FaultUnit	include/FaultUnit.h	/^class FaultUnit$/;"	c
+FaultUnit	src/FaultUnit.cpp	/^FaultUnit::FaultUnit($/;"	f	class:FaultUnit
+FaultUnit	src/FaultUnit.cpp	/^FaultUnit::FaultUnit()$/;"	f	class:FaultUnit
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+GetRealFunc	include/Core.h	/^	void * GetRealFunc(char *func_name) {$/;"	f	class:Core
+GetRealFunc	src/HookManager.cpp	/^void *HookManager::GetRealFunc(char *func_name)$/;"	f	class:HookManager
+GetRealFuncLib	include/Core.h	/^	void * GetRealFuncLib(char *func_name) {$/;"	f	class:Core
+GetRealFuncLib	src/HookImpl.cpp	/^void * HookImpl::GetRealFuncLib(void *src_func)$/;"	f	class:HookImpl
+GetRealFuncLib	src/HookManager.cpp	/^void * HookManager::GetRealFuncLib(char *func_name)$/;"	f	class:HookManager
+HAVE_BFD_H	build-aux/config.h	5;"	d
+HAVE_DIS_ASM_H	build-aux/config.h	8;"	d
+HAVE_FCNTL_H	build-aux/config.h	11;"	d
+HAVE_INTTYPES_H	build-aux/config.h	14;"	d
+HAVE_LIBPTHREAD	build-aux/config.h	17;"	d
+HAVE_MALLOC	build-aux/config.h	21;"	d
+HAVE_MALLOC_H	build-aux/config.h	24;"	d
+HAVE_MEMORY_H	build-aux/config.h	27;"	d
+HAVE_MEMSET	build-aux/config.h	30;"	d
+HAVE_MKFIFO	build-aux/config.h	33;"	d
+HAVE_STDBOOL_H	build-aux/config.h	36;"	d
+HAVE_STDINT_H	build-aux/config.h	39;"	d
+HAVE_STDLIB_H	build-aux/config.h	42;"	d
+HAVE_STRINGS_H	build-aux/config.h	45;"	d
+HAVE_STRING_H	build-aux/config.h	48;"	d
+HAVE_SYS_STAT_H	build-aux/config.h	51;"	d
+HAVE_SYS_TYPES_H	build-aux/config.h	54;"	d
+HAVE_UNISTD_H	build-aux/config.h	57;"	d
+HAVE__BOOL	build-aux/config.h	60;"	d
+HEADERS	Makefile	/^HEADERS = $(include_HEADERS)$/;"	m
+HookImpl	include/HookImpl.h	/^class HookImpl$/;"	c
+HookImpl	src/HookImpl.cpp	/^HookImpl::HookImpl(bfd *abfd)$/;"	f	class:HookImpl
+HookInfo	include/HookImpl.h	/^	struct HookInfo$/;"	s	class:HookImpl
+HookManager	include/HookManager.h	/^class HookManager$/;"	c
+HookManager	src/HookManager.cpp	/^HookManager::HookManager()$/;"	f	class:HookManager
+INCLUDE	test/program/library/lib/Makefile	/^INCLUDE	= 	-I.\/ \\$/;"	m
+INCLUDES	Makefile	/^INCLUDES = -I$(top_srcdir)\/include$/;"	m
+INCLUDES	preload/disk/Makefile	/^INCLUDES = -I$(top_srcdir)\/include$/;"	m
+INCLUDES	preload/memory/Makefile	/^INCLUDES = -I$(top_srcdir)\/include$/;"	m
+INCLUDES	preload/net/Makefile	/^INCLUDES = -I$(top_srcdir)\/include$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	preload/disk/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	preload/memory/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	preload/net/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	preload/disk/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	preload/memory/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	preload/net/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	preload/disk/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	preload/memory/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	preload/net/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	preload/disk/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	preload/memory/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	preload/net/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	preload/disk/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	preload/memory/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	preload/net/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	preload/disk/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	preload/memory/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	preload/net/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+IOCtrl	src/Message.cpp	/^int Message::IOCtrl(int io, char *buf, int bufsize)$/;"	f	class:Message
+IO_INPUT	include/Message.h	/^		IO_INPUT = 0x1,$/;"	e	enum:Message::__anon6
+IO_OUTPUT	include/Message.h	/^		IO_OUTPUT = 0x2,$/;"	e	enum:Message::__anon6
+IO_READ	include/Message.h	/^		IO_READ = 0x10,$/;"	e	enum:Message::__anon6
+IO_UNKNOW	include/Message.h	/^		IO_UNKNOW = 0x0,$/;"	e	enum:Message::__anon6
+IO_WRITE	include/Message.h	/^		IO_WRITE = 0x20,$/;"	e	enum:Message::__anon6
+IR8	include/AsmHelper.h	39;"	d
+IR9	include/AsmHelper.h	40;"	d
+IRAX	include/AsmHelper.h	30;"	d
+IRBP	include/AsmHelper.h	35;"	d
+IRBX	include/AsmHelper.h	33;"	d
+IRCX	include/AsmHelper.h	31;"	d
+IRDI	include/AsmHelper.h	37;"	d
+IRDX	include/AsmHelper.h	32;"	d
+IRSI	include/AsmHelper.h	36;"	d
+IRSP	include/AsmHelper.h	34;"	d
+Info	test/program/api/api.cpp	/^struct Info$/;"	s	file:
+Init	src/BinaryFile.cpp	/^int BinaryFile::Init(char *filename)$/;"	f	class:BinaryFile
+Init	src/Core.cpp	/^int Core::Init()$/;"	f	class:Core
+Init	src/HookManager.cpp	/^int HookManager::Init()$/;"	f	class:HookManager
+Init	src/Message.cpp	/^int Message::Init(read_done_callback cb)$/;"	f	class:Message
+InitRelsym	src/BinaryFile.cpp	/^int BinaryFile::InitRelsym(relsym_dict &rels)$/;"	f	class:BinaryFile
+InitSymbols	src/BinaryFile.cpp	/^int BinaryFile::InitSymbols(symbol_dict &symbols, int sym_flag)$/;"	f	class:BinaryFile
+InstInfo	include/AsmHelper.h	/^	struct InstInfo {$/;"	s	class:AsmHelper
+LDFLAGS	Makefile	/^LDFLAGS = -DHAVE_BFD_DEMANGLE $/;"	m
+LDFLAGS	preload/disk/Makefile	/^LDFLAGS = -DHAVE_BFD_DEMANGLE $/;"	m
+LDFLAGS	preload/memory/Makefile	/^LDFLAGS = -DHAVE_BFD_DEMANGLE $/;"	m
+LDFLAGS	preload/net/Makefile	/^LDFLAGS = -DHAVE_BFD_DEMANGLE $/;"	m
+LDFLAGS	test/memory/api/Makefile	/^LDFLAGS=$(BHOOK_LDFLAGS)$/;"	m
+LDFLAGS	test/net/connect/Makefile	/^LDFLAGS	= -lpthread $/;"	m
+LDFLAGS	test/program/api/Makefile	/^LDFLAGS=$(BHOOK_LDFLAGS)$/;"	m
+LDFLAGS	test/program/library/Makefile	/^LDFLAGS = -L$(MYLIB)\/lib -lmylib $(BHOOK_LDFLAGS)$/;"	m
+LDFLAGS	test/program/simple-control/Makefile	/^LDFLAGS=$(BHOOK_LDFLAGS)$/;"	m
+LDFLAGS	test/program/simple/Makefile	/^LDFLAGS=$(BHOOK_LDFLAGS)$/;"	m
+LDFLAGS	test/unittest/class/Makefile	/^LDFLAGS = -L$(MYLIB)\/lib -lmylib $(BHOOK_LDFLAGS) $(GTEST_LDFLAGS)$/;"	m
+LDFLAGS	test/unittest/sharedlibrary/Makefile	/^LDFLAGS = -L$(MYLIB)\/lib -lmylib $(BHOOK_LDFLAGS) $(GTEST_LDFLAGS)$/;"	m
+LDFLAGS	test/unittest/simple/Makefile	/^LDFLAGS = -L$(MYLIB)\/lib -lmylib $(BHOOK_LDFLAGS) $(GTEST_LDFLAGS)$/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	preload/disk/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	preload/memory/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	preload/net/Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	Makefile	/^LIBRARIES = $(lib_LIBRARIES)$/;"	m
+LIBS	Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	preload/disk/Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	preload/memory/Makefile	/^LIBS = -lpthread $/;"	m
+LIBS	preload/net/Makefile	/^LIBS = -lpthread $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	preload/disk/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	preload/memory/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	preload/net/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run makeinfo$/;"	m
+MAKEINFO	preload/disk/Makefile	/^MAKEINFO = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run makeinfo$/;"	m
+MAKEINFO	preload/memory/Makefile	/^MAKEINFO = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run makeinfo$/;"	m
+MAKEINFO	preload/net/Makefile	/^MAKEINFO = ${SHELL} \/home\/w\/svn\/bhook-1.0.0\/build-aux\/missing --run makeinfo$/;"	m
+MAXDATASIZE	test/net/connect/fclient.cpp	14;"	d	file:
+MAXDATASIZE	test/net/connect/fserver.cpp	15;"	d	file:
+MAX_INSTRUCTION_LEN	include/AsmHelper.h	19;"	d
+MAX_NAME_LEN	include/FaultUnit.h	/^    static const int MAX_NAME_LEN = 64;$/;"	m	class:FaultUnit
+MAX_PATH_SIZE	include/HookManager.h	/^	static const int MAX_PATH_SIZE = 512;$/;"	m	class:HookManager
+MM_NONE	include/AsmHelper.h	/^	MM_NONE = 0,$/;"	e	enum:__anon5
+MM_REXB	include/AsmHelper.h	/^	MM_REXB$/;"	e	enum:__anon5
+MYLIB	test/program/library/Makefile	/^MYLIB = lib\/output$/;"	m
+MYLIB	test/unittest/class/Makefile	/^MYLIB = lib\/output$/;"	m
+MYLIB	test/unittest/sharedlibrary/Makefile	/^MYLIB = lib\/output$/;"	m
+MYLIB	test/unittest/simple/Makefile	/^MYLIB = lib\/output$/;"	m
+Message	include/Message.h	/^class Message$/;"	c
+Message	src/Message.cpp	/^Message::Message()$/;"	f	class:Message
+MyLib	test/unittest/class/lib/mylib.cpp	/^namespace MyLib {$/;"	n	file:
+MyLib	test/unittest/class/lib/mylib.h	/^namespace MyLib {$/;"	n
+MyPrivateSay	test/unittest/class/test_class.cpp	/^int MyPrivateSay(MyLib::Person *person)$/;"	f
+MyPublicSay	test/unittest/class/test_class.cpp	/^int MyPublicSay(MyLib::Person *person)$/;"	f
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	preload/disk/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	preload/memory/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	preload/net/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	preload/disk/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	preload/memory/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	preload/net/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	preload/disk/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	preload/memory/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	preload/net/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = bhook$/;"	m
+PACKAGE	build-aux/config.h	63;"	d
+PACKAGE	preload/disk/Makefile	/^PACKAGE = bhook$/;"	m
+PACKAGE	preload/memory/Makefile	/^PACKAGE = bhook$/;"	m
+PACKAGE	preload/net/Makefile	/^PACKAGE = bhook$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = hyxbiao@gmail.com$/;"	m
+PACKAGE_BUGREPORT	build-aux/config.h	66;"	d
+PACKAGE_BUGREPORT	preload/disk/Makefile	/^PACKAGE_BUGREPORT = hyxbiao@gmail.com$/;"	m
+PACKAGE_BUGREPORT	preload/memory/Makefile	/^PACKAGE_BUGREPORT = hyxbiao@gmail.com$/;"	m
+PACKAGE_BUGREPORT	preload/net/Makefile	/^PACKAGE_BUGREPORT = hyxbiao@gmail.com$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = bhook$/;"	m
+PACKAGE_NAME	build-aux/config.h	69;"	d
+PACKAGE_NAME	preload/disk/Makefile	/^PACKAGE_NAME = bhook$/;"	m
+PACKAGE_NAME	preload/memory/Makefile	/^PACKAGE_NAME = bhook$/;"	m
+PACKAGE_NAME	preload/net/Makefile	/^PACKAGE_NAME = bhook$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = bhook 1.0.0$/;"	m
+PACKAGE_STRING	build-aux/config.h	72;"	d
+PACKAGE_STRING	preload/disk/Makefile	/^PACKAGE_STRING = bhook 1.0.0$/;"	m
+PACKAGE_STRING	preload/memory/Makefile	/^PACKAGE_STRING = bhook 1.0.0$/;"	m
+PACKAGE_STRING	preload/net/Makefile	/^PACKAGE_STRING = bhook 1.0.0$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = bhook$/;"	m
+PACKAGE_TARNAME	build-aux/config.h	75;"	d
+PACKAGE_TARNAME	preload/disk/Makefile	/^PACKAGE_TARNAME = bhook$/;"	m
+PACKAGE_TARNAME	preload/memory/Makefile	/^PACKAGE_TARNAME = bhook$/;"	m
+PACKAGE_TARNAME	preload/net/Makefile	/^PACKAGE_TARNAME = bhook$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 1.0.0$/;"	m
+PACKAGE_VERSION	build-aux/config.h	78;"	d
+PACKAGE_VERSION	preload/disk/Makefile	/^PACKAGE_VERSION = 1.0.0$/;"	m
+PACKAGE_VERSION	preload/memory/Makefile	/^PACKAGE_VERSION = 1.0.0$/;"	m
+PACKAGE_VERSION	preload/net/Makefile	/^PACKAGE_VERSION = 1.0.0$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	preload/disk/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	preload/memory/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	preload/net/Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	preload/disk/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	preload/memory/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	preload/net/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	preload/disk/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	preload/memory/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	preload/net/Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	preload/disk/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	preload/memory/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	preload/net/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	preload/disk/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	preload/memory/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	preload/net/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(module_PROGRAMS)$/;"	m
+PROGRAMS	preload/disk/Makefile	/^PROGRAMS = $(module_PROGRAMS)$/;"	m
+PROGRAMS	preload/memory/Makefile	/^PROGRAMS = $(module_PROGRAMS)$/;"	m
+PROGRAMS	preload/net/Makefile	/^PROGRAMS = $(module_PROGRAMS)$/;"	m
+Parse	src/Message.cpp	/^int Message::Parse(char *command, FaultUnit *fu) $/;"	f	class:Message
+Person	test/unittest/class/lib/mylib.h	/^	Person() {}$/;"	f	class:MyLib::Person
+Person	test/unittest/class/lib/mylib.h	/^class Person$/;"	c	namespace:MyLib
+PrivateSay	test/unittest/class/lib/mylib.cpp	/^int Person::PrivateSay()$/;"	f	class:MyLib::Person
+Process	src/Message.cpp	/^int Message::Process(char *command, bool bout)$/;"	f	class:Message
+PublicSay	test/unittest/class/lib/mylib.cpp	/^int Person::PublicSay()$/;"	f	class:MyLib::Person
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	preload/disk/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	preload/memory/Makefile	/^RANLIB = ranlib$/;"	m
+RANLIB	preload/net/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive dvi-recursive \\$/;"	m
+ReadDoneCallBack	src/Core.cpp	/^int Core::ReadDoneCallBack(const FaultUnit &fu, char *outbuf, int bufsize)$/;"	f	class:Core
+RelSym	include/BinaryFile.h	/^	struct RelSym$/;"	s	class:BinaryFile
+Release	src/Core.cpp	/^void Core::Release()$/;"	f	class:Core
+SCRIPTS	Makefile	/^SCRIPTS = $(bin_SCRIPTS)$/;"	m
+SERVPORT	test/net/connect/fclient.cpp	13;"	d	file:
+SERVPORT	test/net/connect/fserver.cpp	14;"	d	file:
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	preload/disk/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	preload/memory/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	preload/net/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	preload/disk/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	preload/memory/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	preload/net/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	Makefile	/^SOURCES = $(libbhook_a_SOURCES) $(bhook_main_so_SOURCES)$/;"	m
+SOURCES	preload/disk/Makefile	/^SOURCES = $(fault_disk_so_SOURCES)$/;"	m
+SOURCES	preload/memory/Makefile	/^SOURCES = $(fault_memory_so_SOURCES)$/;"	m
+SOURCES	preload/net/Makefile	/^SOURCES = $(fault_net_so_SOURCES)$/;"	m
+SO_MAIN	include/bhook.h	13;"	d
+SO_MAIN	preload/disk/fault_disk_file.cpp	/^SO_MAIN(fault_disk_file)$/;"	f
+SO_MAIN	preload/disk/fault_disk_system.cpp	/^SO_MAIN(fault_disk_system)$/;"	f
+SO_MAIN	preload/memory/fault_memory.cpp	/^SO_MAIN(fault_memory)$/;"	f
+SO_MAIN	preload/net/fault_net.cpp	/^SO_MAIN(fault_net)$/;"	f
+SO_MAIN_START	include/bhook.h	18;"	d
+STDC_HEADERS	build-aux/config.h	81;"	d
+STDIN	test/net/connect/fclient.cpp	15;"	d	file:
+STDIN	test/net/connect/fserver.cpp	17;"	d	file:
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	preload/disk/Makefile	/^STRIP = $/;"	m
+STRIP	preload/memory/Makefile	/^STRIP = $/;"	m
+STRIP	preload/net/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = preload\/disk preload\/memory preload\/net$/;"	m
+SYM_FUNC	include/BinaryFile.h	/^		SYM_FUNC = 1,$/;"	e	enum:BinaryFile::__anon4
+SYM_OBJECT	include/BinaryFile.h	/^		SYM_OBJECT = 2$/;"	e	enum:BinaryFile::__anon4
+SetProt	src/HookImpl.cpp	/^int HookImpl::SetProt(const void *addr, size_t len, int prot)$/;"	f	class:HookImpl
+Symbol	include/BinaryFile.h	/^	struct Symbol$/;"	s	class:BinaryFile
+SysHookInfo	include/HookImpl.h	/^	struct SysHookInfo$/;"	s	class:HookImpl
+TARGET	test/program/library/lib/Makefile	/^TARGET = libmylib.a$/;"	m
+TARGET	test/unittest/class/lib/Makefile	/^TARGET = libmylib.a$/;"	m
+TARGET	test/unittest/sharedlibrary/lib/Makefile	/^TARGET = libmylib.so$/;"	m
+TARGET	test/unittest/simple/lib/Makefile	/^TARGET = libmylib.a$/;"	m
+TEST	test/unittest/class/test_class.cpp	/^TEST(Person, PrivateSay) $/;"	f
+TEST	test/unittest/class/test_class.cpp	/^TEST(Person, PublicSay) $/;"	f
+TEST	test/unittest/sharedlibrary/test_so.cpp	/^TEST(MyLib, case1) $/;"	f
+TEST	test/unittest/sharedlibrary/test_so.cpp	/^TEST(MyLib, case2) $/;"	f
+TEST	test/unittest/simple/test_attach.cpp	/^TEST(MyLib, case1) $/;"	f
+TEST	test/unittest/simple/test_attach.cpp	/^TEST(MyLib, case2) $/;"	f
+TEST	test/unittest/simple/test_enable.cpp	/^TEST(MyLib, case1) $/;"	f
+TEST	test/unittest/simple/test_enable.cpp	/^TEST(MyLib, case2) $/;"	f
+Update	src/FaultUnit.cpp	/^int FaultUnit::Update(const FaultUnit &fu)$/;"	f	class:FaultUnit
+VERSION	Makefile	/^VERSION = 1.0.0$/;"	m
+VERSION	build-aux/config.h	84;"	d
+VERSION	preload/disk/Makefile	/^VERSION = 1.0.0$/;"	m
+VERSION	preload/memory/Makefile	/^VERSION = 1.0.0$/;"	m
+VERSION	preload/net/Makefile	/^VERSION = 1.0.0$/;"	m
+__ASMHELPER_H_	include/AsmHelper.h	12;"	d
+__BHOOK_H_	include/bhook.h	11;"	d
+__BINARYFILE_H_	include/BinaryFile.h	11;"	d
+__COMMON_H_	include/common.h	11;"	d
+__CORE_H__	include/Core.h	9;"	d
+__ELFDEF_H_	include/elfdef.h	11;"	d
+__ELFMANAGER_H_	include/ELFManager.h	11;"	d
+__FAULTUNIT_H_	include/FaultUnit.h	11;"	d
+__HOOKIMPL_H_	include/HookImpl.h	11;"	d
+__HOOKMANAGER_H_	include/HookManager.h	11;"	d
+__MESSAGE_H_	include/Message.h	10;"	d
+__MODE_T_TYPE	preload/disk/fault_disk_system.cpp	24;"	d	file:
+__MYLIB_H_	test/program/library/lib/mylib.h	12;"	d
+__MYLIB_H_	test/unittest/class/lib/mylib.h	12;"	d
+__MYLIB_H_	test/unittest/sharedlibrary/lib/mylib.h	12;"	d
+__MYLIB_H_	test/unittest/simple/lib/mylib.h	12;"	d
+__U32_TYPE	preload/disk/fault_disk_system.cpp	25;"	d	file:
+__mode_t	preload/disk/fault_disk_system.cpp	23;"	d	file:
+__mode_t_defined	preload/disk/fault_disk_system.cpp	21;"	d	file:
+_abfd	include/BinaryFile.h	/^	bfd				*_abfd;$/;"	m	class:BinaryFile
+_abfd	include/HookImpl.h	/^	bfd				*_abfd;$/;"	m	class:HookImpl
+_bf	include/HookManager.h	/^	BinaryFile	*_bf;$/;"	m	class:HookManager
+_ehdr	include/ELFManager.h	/^	Elf_Ehdr	_ehdr;$/;"	m	class:ELFManager
+_enable	include/FaultUnit.h	/^	int				_enable;$/;"	m	class:FaultUnit
+_err	include/FaultUnit.h	/^	int				_err;$/;"	m	class:FaultUnit
+_fd	include/ELFManager.h	/^	int _fd;$/;"	m	class:ELFManager
+_filename	include/ELFManager.h	/^	const char *_filename;$/;"	m	class:ELFManager
+_hook_impl	include/HookManager.h	/^	HookImpl	*_hook_impl;$/;"	m	class:HookManager
+_hook_manager	include/Core.h	/^	HookManager		*_hook_manager;$/;"	m	class:Core
+_hook_vecs	include/Core.h	/^    hook_map_t		_hook_vecs;    $/;"	m	class:Core
+_hooks	include/HookImpl.h	/^	hook_dict		_hooks;$/;"	m	class:HookImpl
+_ident	include/ELFManager.h	/^	char		_ident[EI_NIDENT];$/;"	m	class:ELFManager
+_in_file_name	include/Message.h	/^	char _in_file_name[FILE_NAME_MAX_SIZE];$/;"	m	class:Message
+_init	include/HookManager.h	/^	bool		_init;$/;"	m	class:HookManager
+_inst_info	include/AsmHelper.h	/^	static struct InstInfo _inst_info;$/;"	m	class:AsmHelper	typeref:struct:AsmHelper::InstInfo
+_inst_info	src/AsmHelper.cpp	/^struct AsmHelper::InstInfo AsmHelper::_inst_info;$/;"	m	class:AsmHelper	typeref:struct:AsmHelper::	file:
+_inst_lock	include/Core.h	/^	static pthread_mutex_t _inst_lock;$/;"	m	class:Core
+_inst_lock	src/Core.cpp	/^pthread_mutex_t Core::_inst_lock = PTHREAD_MUTEX_INITIALIZER;$/;"	m	class:Core	file:
+_instance	include/Core.h	/^	static Core		*_instance;$/;"	m	class:Core
+_instance	src/Core.cpp	/^Core * Core::_instance = NULL;$/;"	m	class:Core	file:
+_is_32_bit	include/ELFManager.h	/^	bool		_is_32_bit;$/;"	m	class:ELFManager
+_mq	include/Core.h	/^    Message			*_mq;$/;"	m	class:Core
+_name	include/FaultUnit.h	/^	char			_name[MAX_NAME_LEN];$/;"	m	class:FaultUnit
+_out_file_name	include/Message.h	/^	char _out_file_name[FILE_NAME_MAX_SIZE];$/;"	m	class:Message
+_param	include/FaultUnit.h	/^	void			*_param;$/;"	m	class:FaultUnit
+_pid	include/Message.h	/^	int	_pid;$/;"	m	class:Message
+_probability	include/FaultUnit.h	/^	unsigned int	_probability;$/;"	m	class:FaultUnit
+_read_done_cb	include/Message.h	/^	read_done_callback  _read_done_cb;$/;"	m	class:Message
+_rels	include/BinaryFile.h	/^	relsym_dict		_rels;$/;"	m	class:BinaryFile
+_symbols	include/BinaryFile.h	/^	symbol_dict		_symbols;$/;"	m	class:BinaryFile
+_sys_hooks	include/HookImpl.h	/^	sys_hook_dict	_sys_hooks;$/;"	m	class:HookImpl
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	preload/disk/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	preload/memory/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	preload/net/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	preload/disk/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	preload/memory/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	preload/net/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_RANLIB	Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	preload/disk/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	preload/memory/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_RANLIB	preload/net/Makefile	/^ac_ct_RANLIB = ranlib$/;"	m
+ac_ct_STRIP	Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	preload/disk/Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	preload/memory/Makefile	/^ac_ct_STRIP = $/;"	m
+ac_ct_STRIP	preload/net/Makefile	/^ac_ct_STRIP = $/;"	m
+add_cmd	scripts/bhook	/^function add_cmd() {$/;"	f
+add_cmd	scripts/bhook.in	/^function add_cmd() {$/;"	f
+addr	include/BinaryFile.h	/^		void			*addr;$/;"	m	struct:BinaryFile::Symbol
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	preload/disk/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	preload/memory/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	preload/net/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	preload/disk/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	preload/memory/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	preload/net/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	preload/disk/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	preload/memory/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	preload/net/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	preload/disk/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	preload/memory/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__depfiles_maybe	preload/net/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__fastdepCC_FALSE	Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	preload/disk/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	preload/memory/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_FALSE	preload/net/Makefile	/^am__fastdepCC_FALSE = #$/;"	m
+am__fastdepCC_TRUE	Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	preload/disk/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	preload/memory/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCC_TRUE	preload/net/Makefile	/^am__fastdepCC_TRUE = $/;"	m
+am__fastdepCXX_FALSE	Makefile	/^am__fastdepCXX_FALSE = #$/;"	m
+am__fastdepCXX_FALSE	preload/disk/Makefile	/^am__fastdepCXX_FALSE = #$/;"	m
+am__fastdepCXX_FALSE	preload/memory/Makefile	/^am__fastdepCXX_FALSE = #$/;"	m
+am__fastdepCXX_FALSE	preload/net/Makefile	/^am__fastdepCXX_FALSE = #$/;"	m
+am__fastdepCXX_TRUE	Makefile	/^am__fastdepCXX_TRUE = $/;"	m
+am__fastdepCXX_TRUE	preload/disk/Makefile	/^am__fastdepCXX_TRUE = $/;"	m
+am__fastdepCXX_TRUE	preload/memory/Makefile	/^am__fastdepCXX_TRUE = $/;"	m
+am__fastdepCXX_TRUE	preload/net/Makefile	/^am__fastdepCXX_TRUE = $/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	preload/disk/Makefile	/^am__include = include$/;"	m
+am__include	preload/memory/Makefile	/^am__include = include$/;"	m
+am__include	preload/net/Makefile	/^am__include = include$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(libdir)" "$(DESTDIR)$(moduledir)" \\$/;"	m
+am__installdirs	preload/disk/Makefile	/^am__installdirs = "$(DESTDIR)$(moduledir)"$/;"	m
+am__installdirs	preload/memory/Makefile	/^am__installdirs = "$(DESTDIR)$(moduledir)"$/;"	m
+am__installdirs	preload/net/Makefile	/^am__installdirs = "$(DESTDIR)$(moduledir)"$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	preload/disk/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	preload/memory/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	preload/net/Makefile	/^am__leading_dot = .$/;"	m
+am__objects_1	Makefile	/^am__objects_1 = ELFManager.$(OBJEXT) AsmHelper.$(OBJEXT) \\$/;"	m
+am__objects_2	Makefile	/^am__objects_2 = bhook_main_so-ELFManager.$(OBJEXT) \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	preload/disk/Makefile	/^am__quote = $/;"	m
+am__quote	preload/memory/Makefile	/^am__quote = $/;"	m
+am__quote	preload/net/Makefile	/^am__quote = $/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = `echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	preload/disk/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	preload/memory/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__tar	preload/net/Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	preload/disk/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	preload/memory/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__untar	preload/net/Makefile	/^am__untar = ${AMTAR} xf -$/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_bhook_main_so_OBJECTS	Makefile	/^am_bhook_main_so_OBJECTS = $(am__objects_2)$/;"	m
+am_fault_disk_so_OBJECTS	preload/disk/Makefile	/^am_fault_disk_so_OBJECTS = fault_disk_file.$(OBJEXT) \\$/;"	m
+am_fault_memory_so_OBJECTS	preload/memory/Makefile	/^am_fault_memory_so_OBJECTS = fault_memory.$(OBJEXT)$/;"	m
+am_fault_net_so_OBJECTS	preload/net/Makefile	/^am_fault_net_so_OBJECTS = fault_net.$(OBJEXT)$/;"	m
+am_libbhook_a_OBJECTS	Makefile	/^am_libbhook_a_OBJECTS = $(am__objects_1)$/;"	m
+attach_func	src/bhook.cpp	/^int attach_func(char *func_name, void *hook_func)$/;"	f
+attach_func_lib	src/bhook.cpp	/^int attach_func_lib(char *func_name, void *hook_func)$/;"	f
+backup	include/HookImpl.h	/^		char	backup[FAR_JMP_CODE_LEN];$/;"	m	struct:HookImpl::HookInfo
+bfd_demangle	configure	/^bfd_demangle ();$/;"	f
+bhook_main_so_CPPFLAGS	Makefile	/^bhook_main_so_CPPFLAGS = -fPIC$/;"	m
+bhook_main_so_LDADD	Makefile	/^bhook_main_so_LDADD = $(LDADD)$/;"	m
+bhook_main_so_LDFLAGS	Makefile	/^bhook_main_so_LDFLAGS = -shared -ldl$/;"	m
+bhook_main_so_OBJECTS	Makefile	/^bhook_main_so_OBJECTS = $(am_bhook_main_so_OBJECTS)$/;"	m
+bhook_main_so_SOURCES	Makefile	/^bhook_main_so_SOURCES = $(BHOOK_SRC)$/;"	m
+binSCRIPT_INSTALL	Makefile	/^binSCRIPT_INSTALL = $(INSTALL_SCRIPT)$/;"	m
+bin_SCRIPTS	Makefile	/^bin_SCRIPTS = $(BHOOK_BIN)$/;"	m
+bind	include/ELFManager.h	/^	unsigned char	bind;$/;"	m	struct:elf_symbol
+bind	preload/net/fault_net.cpp	/^	int FAULT_(bind)(int sockfd, const struct sockaddr *serv_addr, socklen_t addrlen)$/;"	f
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	preload/disk/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	preload/memory/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	preload/net/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+buffer_read_memory	src/AsmHelper.cpp	/^int AsmHelper::buffer_read_memory (bfd_vma memaddr,$/;"	f	class:AsmHelper
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	preload/disk/Makefile	/^build_alias = $/;"	m
+build_alias	preload/memory/Makefile	/^build_alias = $/;"	m
+build_alias	preload/net/Makefile	/^build_alias = $/;"	m
+calloc	preload/memory/fault_memory.cpp	/^	void *FAULT_(calloc)(size_t nmemb,size_t size)$/;"	f
+close	preload/disk/fault_disk_system.cpp	/^	int FAULT_(close)(int fd)$/;"	f
+cmd_monitor_thread	src/Message.cpp	/^void * Message::cmd_monitor_thread(void *ptr)$/;"	f	class:Message
+codep	include/AsmHelper.h	/^		bfd_byte *codep[4];	\/* 指向4字节长数据 *\/$/;"	m	struct:AsmHelper::InstInfo
+connect	preload/net/fault_net.cpp	/^	int FAULT_(connect)(int sockfd, const struct sockaddr *serv_addr, socklen_t addrlen)$/;"	f
+count	include/AsmHelper.h	/^		unsigned int count;$/;"	m	struct:AsmHelper::InstInfo
+datadir	Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	preload/disk/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	preload/memory/Makefile	/^datadir = ${prefix}\/share$/;"	m
+datadir	preload/net/Makefile	/^datadir = ${prefix}\/share$/;"	m
+dc_install_base	Makefile	/^	dc_install_base=`$(am__cd) $(distdir)\/_inst && pwd | sed -e 's,^[^:\\\\\/]:[\\\\\/],\/,'` \\$/;"	m
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+depcomp	preload/disk/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+depcomp	preload/memory/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+depcomp	preload/net/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/build-aux\/depcomp$/;"	m
+detach_func	src/bhook.cpp	/^int detach_func(char *func_name)$/;"	f
+detach_func_lib	src/bhook.cpp	/^int detach_func_lib(char *func_name)$/;"	f
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+e_shentsize	include/elfdef.h	/^	unsigned int		e_shentsize;$/;"	m	struct:__anon1
+e_shnum	include/elfdef.h	/^	unsigned int		e_shnum;$/;"	m	struct:__anon1
+e_shoff	include/elfdef.h	/^	unsigned long		e_shoff;$/;"	m	struct:__anon1
+elf_canonicalize_relsym	src/ELFManager.cpp	/^int ELFManager::elf_canonicalize_relsym(erelsym **rel_table, int max_count)$/;"	f	class:ELFManager
+elf_canonicalize_symbol	src/ELFManager.cpp	/^int ELFManager::elf_canonicalize_symbol(esymbol **symbol_table, int unsigned type)$/;"	f	class:ELFManager
+elf_canonicalize_symtab	src/ELFManager.cpp	/^int ELFManager::elf_canonicalize_symtab(esymbol **symbol_table)$/;"	f	class:ELFManager
+elf_close	src/ELFManager.cpp	/^void ELFManager::elf_close()$/;"	f	class:ELFManager
+elf_get_relsym_upper_bound	src/ELFManager.cpp	/^int ELFManager::elf_get_relsym_upper_bound(int *pcount)$/;"	f	class:ELFManager
+elf_get_section_upper_bound	src/ELFManager.cpp	/^int ELFManager::elf_get_section_upper_bound(unsigned int type, int *pcount)$/;"	f	class:ELFManager
+elf_get_symtab_upper_bound	src/ELFManager.cpp	/^int ELFManager::elf_get_symtab_upper_bound()$/;"	f	class:ELFManager
+elf_open	src/ELFManager.cpp	/^int ELFManager::elf_open(const char *filename)$/;"	f	class:ELFManager
+elf_read	src/ELFManager.cpp	/^int ELFManager::elf_read(int pos, void *buf, int count)$/;"	f	class:ELFManager
+elf_read_ehdr	src/ELFManager.cpp	/^int ELFManager::elf_read_ehdr(Elf_Ehdr &ehdr)$/;"	f	class:ELFManager
+elf_read_shdrs	src/ELFManager.cpp	/^int ELFManager::elf_read_shdrs(Elf_Shdr *shdrs, unsigned int shnum)$/;"	f	class:ELFManager
+elf_relsym	include/ELFManager.h	/^typedef struct elf_relsym$/;"	s
+elf_symbol	include/ELFManager.h	/^typedef struct elf_symbol$/;"	s
+empty_fprintf	include/AsmHelper.h	/^	static int empty_fprintf(FILE *stream, const char *fmt, ...) $/;"	f	class:AsmHelper
+end	test/program/api/api.cpp	/^	int end;$/;"	m	struct:Info	file:
+erelsym	include/ELFManager.h	/^}erelsym;$/;"	t	typeref:struct:elf_relsym
+esymbol	include/ELFManager.h	/^}esymbol;$/;"	t	typeref:struct:elf_symbol
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	preload/disk/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	preload/memory/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	preload/net/Makefile	/^exec_prefix = ${prefix}$/;"	m
+fault_ctrl	src/bhook.cpp	/^inline int fault_ctrl(const char *name, int enable, unsigned int probability, int err, void *param)$/;"	f
+fault_disable	src/bhook.cpp	/^int fault_disable(const char *name)$/;"	f
+fault_disk_so_LDADD	preload/disk/Makefile	/^fault_disk_so_LDADD = $(LDADD)$/;"	m
+fault_disk_so_OBJECTS	preload/disk/Makefile	/^fault_disk_so_OBJECTS = $(am_fault_disk_so_OBJECTS)$/;"	m
+fault_disk_so_SOURCES	preload/disk/Makefile	/^fault_disk_so_SOURCES = \\$/;"	m
+fault_enable	src/bhook.cpp	/^int fault_enable(const char *name, unsigned int probability, int err, void *param)$/;"	f
+fault_fail	src/bhook.cpp	/^int fault_fail(const char *name, int *perr, void **pparam)$/;"	f
+fault_memory_so_LDADD	preload/memory/Makefile	/^fault_memory_so_LDADD = $(LDADD)$/;"	m
+fault_memory_so_OBJECTS	preload/memory/Makefile	/^fault_memory_so_OBJECTS = $(am_fault_memory_so_OBJECTS)$/;"	m
+fault_memory_so_SOURCES	preload/memory/Makefile	/^fault_memory_so_SOURCES = \\$/;"	m
+fault_net_so_LDADD	preload/net/Makefile	/^fault_net_so_LDADD = $(LDADD)$/;"	m
+fault_net_so_OBJECTS	preload/net/Makefile	/^fault_net_so_OBJECTS = $(am_fault_net_so_OBJECTS)$/;"	m
+fault_net_so_SOURCES	preload/net/Makefile	/^fault_net_so_SOURCES = \\$/;"	m
+fclose	preload/disk/fault_disk_file.cpp	/^	int FAULT_(fclose)(FILE *stream)$/;"	f
+fgetc	preload/disk/fault_disk_file.cpp	/^	int FAULT_(fgetc)(FILE *stream)$/;"	f
+fgets	preload/disk/fault_disk_file.cpp	/^	char *FAULT_(fgets)(char *s, int size, FILE *stream)$/;"	f
+fopen	preload/disk/fault_disk_file.cpp	/^	FILE * FAULT_(fopen)(const char * path,const char * mode)$/;"	f
+fputc	preload/disk/fault_disk_file.cpp	/^	int FAULT_(fputc)(int c, FILE *stream)$/;"	f
+fputs	preload/disk/fault_disk_file.cpp	/^	int FAULT_(fputs)(const char *s, FILE *stream)$/;"	f
+fread	preload/disk/fault_disk_file.cpp	/^	size_t FAULT_(fread)(void * ptr,size_t size,size_t nmemb,FILE * stream)$/;"	f
+free	preload/memory/fault_memory.cpp	/^	void FAULT_(free)(void *ptr)$/;"	f
+fseek	preload/disk/fault_disk_file.cpp	/^	int FAULT_(fseek)(FILE *stream, long offset, int whence)$/;"	f
+ftell	preload/disk/fault_disk_file.cpp	/^	long FAULT_(ftell)(FILE *stream)$/;"	f
+func	test/program/api/api.cpp	/^int func(int num)$/;"	f
+func	test/unittest/sharedlibrary/lib/mylib.cpp	/^int func(char *str)$/;"	f
+func	test/unittest/simple/lib/mylib.cpp	/^int func(char *str)$/;"	f
+func_infer_tag	build-aux/ltmain.sh	/^func_infer_tag () {$/;"	f
+func_win32_libid	build-aux/ltmain.sh	/^func_win32_libid () {$/;"	f
+fwrite	preload/disk/fault_disk_file.cpp	/^	size_t FAULT_(fwrite)(const void * ptr,size_t size,size_t nmemb,FILE * stream)$/;"	f
+getBFD	include/BinaryFile.h	/^	bfd * getBFD()$/;"	f	class:BinaryFile
+getEnable	include/FaultUnit.h	/^	int getEnable() const $/;"	f	class:FaultUnit
+getError	include/FaultUnit.h	/^	int getError() const $/;"	f	class:FaultUnit
+getFaultUnit	src/Core.cpp	/^const FaultUnit * Core::getFaultUnit(string key)$/;"	f	class:Core
+getInstance	src/Core.cpp	/^Core * Core::getInstance()$/;"	f	class:Core
+getName	include/FaultUnit.h	/^	const char * getName() const$/;"	f	class:FaultUnit
+getParam	include/FaultUnit.h	/^	void *getParam() const$/;"	f	class:FaultUnit
+getProbability	include/FaultUnit.h	/^	unsigned int getProbability() const$/;"	f	class:FaultUnit
+getRelocs	src/BinaryFile.cpp	/^int BinaryFile::getRelocs(char *symbol_name, RelSym &relsym)$/;"	f	class:BinaryFile
+getSymbol	src/BinaryFile.cpp	/^int BinaryFile::getSymbol(char *symbol_name, Symbol &symbol)$/;"	f	class:BinaryFile
+getSymbol	src/HookManager.cpp	/^void * HookManager::getSymbol(char *symbol_name)$/;"	f	class:HookManager
+get_real_func	src/bhook.cpp	/^void *get_real_func(char *func_name)$/;"	f
+get_real_func_lib	src/bhook.cpp	/^void *get_real_func_lib(char *func_name)$/;"	f
+getfilename	test/disk/user_write/hook.cpp	/^int getfilename(int fd, char *buf, int bufsize)$/;"	f
+getpeername	preload/net/fault_net.cpp	/^	int FAULT_(getpeername)(int s, struct sockaddr *name, socklen_t *namelen)$/;"	f
+getsockname	preload/net/fault_net.cpp	/^	int FAULT_(getsockname)(int s, struct sockaddr *name, socklen_t *namelen)$/;"	f
+getsockopt	preload/net/fault_net.cpp	/^	int FAULT_(getsockopt)(int s, int level, int optname, void *optval, socklen_t *optlen)$/;"	f
+hook_dict	include/HookImpl.h	/^	typedef std::map<void *, HookInfo> hook_dict;$/;"	t	class:HookImpl
+hook_func	include/HookImpl.h	/^		void	*hook_func;$/;"	m	struct:HookImpl::HookInfo
+hook_func	include/HookImpl.h	/^		void	*hook_func;$/;"	m	struct:HookImpl::SysHookInfo
+hook_init	test/disk/user_write/hook.cpp	/^void __attribute__ ((constructor)) hook_init(void)$/;"	f
+hook_init	test/program/simple-control/hook.cpp	/^void __attribute__ ((constructor)) hook_init(void)$/;"	f
+hook_init	test/program/simple/hook.cpp	/^void __attribute__ ((constructor)) hook_init(void)$/;"	f
+hook_map_t	include/Core.h	/^	typedef map<string, FaultUnit>  hook_map_t;$/;"	t	class:Core
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	preload/disk/Makefile	/^host_alias = $/;"	m
+host_alias	preload/memory/Makefile	/^host_alias = $/;"	m
+host_alias	preload/net/Makefile	/^host_alias = $/;"	m
+includeHEADERS_INSTALL	Makefile	/^includeHEADERS_INSTALL = $(INSTALL_HEADER)$/;"	m
+include_HEADERS	Makefile	/^include_HEADERS = include\/bhook.h$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	preload/disk/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	preload/memory/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	preload/net/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	preload/disk/Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	preload/memory/Makefile	/^infodir = ${prefix}\/info$/;"	m
+infodir	preload/net/Makefile	/^infodir = ${prefix}\/info$/;"	m
+install_sh	Makefile	/^install_sh = \/home\/w\/svn\/bhook-1.0.0\/build-aux\/install-sh$/;"	m
+install_sh	preload/disk/Makefile	/^install_sh = \/home\/w\/svn\/bhook-1.0.0\/build-aux\/install-sh$/;"	m
+install_sh	preload/memory/Makefile	/^install_sh = \/home\/w\/svn\/bhook-1.0.0\/build-aux\/install-sh$/;"	m
+install_sh	preload/net/Makefile	/^install_sh = \/home\/w\/svn\/bhook-1.0.0\/build-aux\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	preload/disk/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	preload/memory/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	preload/net/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	preload/disk/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	preload/memory/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	preload/net/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	preload/disk/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	preload/memory/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	preload/net/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+is_pid	scripts/bhook	/^function is_pid() {$/;"	f
+is_pid	scripts/bhook.in	/^function is_pid() {$/;"	f
+libLIBRARIES_INSTALL	Makefile	/^libLIBRARIES_INSTALL = $(INSTALL_DATA)$/;"	m
+lib_LIBRARIES	Makefile	/^lib_LIBRARIES = libbhook.a$/;"	m
+libbhook_a_AR	Makefile	/^libbhook_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libbhook_a_LIBADD	Makefile	/^libbhook_a_LIBADD =$/;"	m
+libbhook_a_OBJECTS	Makefile	/^libbhook_a_OBJECTS = $(am_libbhook_a_OBJECTS)$/;"	m
+libbhook_a_SOURCES	Makefile	/^libbhook_a_SOURCES = $(BHOOK_SRC)$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	preload/disk/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	preload/memory/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	preload/net/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	preload/disk/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	preload/memory/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	preload/net/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list	Makefile	/^	list='$(DIST_SUBDIRS)'; for subdir in $$list; do \\$/;"	m
+listen	preload/net/fault_net.cpp	/^	int FAULT_(listen)(int s, int backlog)$/;"	f
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	preload/disk/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	preload/memory/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	preload/net/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	build-aux/config.guess	/^		main()$/;"	f
+main	build-aux/config.guess	/^	main ()$/;"	f
+main	build-aux/config.guess	/^main ()$/;"	f
+main	test/disk/fread/readfile.cpp	/^int main()$/;"	f
+main	test/disk/user_write/user_write.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	test/disk/write/writefile.cpp	/^int main()$/;"	f
+main	test/memory/api/malloc.cpp	/^int main()$/;"	f
+main	test/memory/malloc/malloc.cpp	/^int main()$/;"	f
+main	test/net/connect/fclient.cpp	/^int main(int argc, char **argv)$/;"	f
+main	test/net/connect/fserver.cpp	/^int main(void)$/;"	f
+main	test/program/api/api.cpp	/^int main()$/;"	f
+main	test/program/library/attachlib.cpp	/^int main()$/;"	f
+main	test/program/simple-control/simple.cpp	/^int main()$/;"	f
+main	test/program/simple/simple.cpp	/^int main()$/;"	f
+main	test/system/user_printf/main.cpp	/^int main()$/;"	f
+main	test/unittest/class/test_class.cpp	/^int  main(int  argc,  char  **argv) {$/;"	f
+main	test/unittest/sharedlibrary/test_so.cpp	/^int  main(int  argc,  char  **argv) {$/;"	f
+main	test/unittest/simple/test_attach.cpp	/^int  main(int  argc,  char  **argv) {$/;"	f
+main	test/unittest/simple/test_enable.cpp	/^int  main(int  argc,  char  **argv) {$/;"	f
+main_fini	src/Core.cpp	/^void __attribute__ ((destructor)) main_fini()$/;"	f
+main_init	src/Core.cpp	/^void __attribute__ ((constructor)) main_init()$/;"	f
+malloc	preload/memory/fault_memory.cpp	/^	void *FAULT_(malloc)(size_t size)$/;"	f
+mandir	Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	preload/disk/Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	preload/memory/Makefile	/^mandir = ${prefix}\/man$/;"	m
+mandir	preload/net/Makefile	/^mandir = ${prefix}\/man$/;"	m
+memccpy	preload/memory/fault_memory.cpp	/^	void *FAULT_(memccpy)(void *dest, const void *src, int c, size_t n)$/;"	f
+memchr	preload/memory/fault_memory.cpp	/^	void *FAULT_(memchr)(const void *s, int c, size_t n)$/;"	f
+memcmp	preload/memory/fault_memory.cpp	/^	int FAULT_(memcmp)(const void *s1, const void *s2, size_t n)$/;"	f
+memcpy	preload/memory/fault_memory.cpp	/^	void *FAULT_(memcpy)(void *dest, const void *src, size_t n)$/;"	f
+memmove	preload/memory/fault_memory.cpp	/^	void *FAULT_(memmove)(void *dest, const void *src, size_t n)$/;"	f
+mempcpy	preload/memory/fault_memory.cpp	/^	void *FAULT_(mempcpy)(void *dest, const void *src, size_t n)$/;"	f
+memrchr	preload/memory/fault_memory.cpp	/^	void *FAULT_(memrchr)(const void *s, int c, size_t n)$/;"	f
+memset	preload/memory/fault_memory.cpp	/^	void *FAULT_(memset)(void *s,int c ,size_t n)$/;"	f
+mkdir_p	Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	preload/disk/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	preload/memory/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkdir_p	preload/net/Makefile	/^mkdir_p = mkdir -p --$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	preload/disk/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	preload/memory/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	preload/net/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mode_t	preload/disk/fault_disk_system.cpp	/^typedef __mode_t mode_t;$/;"	t	file:
+modulePROGRAMS_INSTALL	Makefile	/^modulePROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+modulePROGRAMS_INSTALL	preload/disk/Makefile	/^modulePROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+modulePROGRAMS_INSTALL	preload/memory/Makefile	/^modulePROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+modulePROGRAMS_INSTALL	preload/net/Makefile	/^modulePROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+module_PROGRAMS	Makefile	/^module_PROGRAMS = bhook_main.so$(EXEEXT)$/;"	m
+module_PROGRAMS	preload/disk/Makefile	/^module_PROGRAMS = fault_disk.so$(EXEEXT)$/;"	m
+module_PROGRAMS	preload/memory/Makefile	/^module_PROGRAMS = fault_memory.so$(EXEEXT)$/;"	m
+module_PROGRAMS	preload/net/Makefile	/^module_PROGRAMS = fault_net.so$(EXEEXT)$/;"	m
+moduledir	Makefile	/^moduledir = $(prefix)\/so$/;"	m
+moduledir	preload/disk/Makefile	/^moduledir = $(prefix)\/so$/;"	m
+moduledir	preload/memory/Makefile	/^moduledir = $(prefix)\/so$/;"	m
+moduledir	preload/net/Makefile	/^moduledir = $(prefix)\/so$/;"	m
+my_B	test/program/simple/hook.cpp	/^int my_B()$/;"	f
+my_func	test/unittest/simple/test_attach.cpp	/^int my_func(char *str)$/;"	f
+my_func	test/unittest/simple/test_enable.cpp	/^int my_func(char *str)$/;"	f
+my_malloc	test/memory/api/malloc.cpp	/^void *my_malloc(size_t size)$/;"	f
+my_malloc	test/program/library/attachlib.cpp	/^void *my_malloc(ssize_t size) $/;"	f
+my_printf	test/system/user_printf/my_printf.cpp	/^int my_printf(const char *format, ...)$/;"	f
+my_printf_init	test/system/user_printf/my_printf.cpp	/^void __attribute__ ((constructor)) my_printf_init(void)$/;"	f
+my_so_func	test/unittest/sharedlibrary/test_so.cpp	/^int my_so_func(char *str)$/;"	f
+my_write	test/disk/user_write/hook.cpp	/^ssize_t my_write(int fd, const void *buf, size_t count)$/;"	f
+name	include/ELFManager.h	/^	char			*name;$/;"	m	struct:elf_symbol
+new_fread	test/program/api/api.cpp	/^size_t new_fread(void * ptr,size_t size,size_t nmemb,FILE * stream)$/;"	f
+new_func	test/program/api/api.cpp	/^int new_func(int num)$/;"	f
+offset	include/ELFManager.h	/^	unsigned long	offset;$/;"	m	struct:elf_relsym
+old_addr	include/HookImpl.h	/^		void	*old_addr;$/;"	m	struct:HookImpl::SysHookInfo
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	preload/disk/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	preload/memory/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	preload/net/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open	preload/disk/fault_disk_system.cpp	/^	int FAULT_(open)(const char *pathname, int flags, mode_t mode)$/;"	f
+opts_reset	scripts/bhook	/^function opts_reset() {$/;"	f
+opts_reset	scripts/bhook.in	/^function opts_reset() {$/;"	f
+pgot	include/BinaryFile.h	/^		void			*pgot;$/;"	m	struct:BinaryFile::RelSym
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/bhook$/;"	m
+pkgdatadir	preload/disk/Makefile	/^pkgdatadir = $(datadir)\/bhook$/;"	m
+pkgdatadir	preload/memory/Makefile	/^pkgdatadir = $(datadir)\/bhook$/;"	m
+pkgdatadir	preload/net/Makefile	/^pkgdatadir = $(datadir)\/bhook$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/bhook$/;"	m
+pkgincludedir	preload/disk/Makefile	/^pkgincludedir = $(includedir)\/bhook$/;"	m
+pkgincludedir	preload/memory/Makefile	/^pkgincludedir = $(includedir)\/bhook$/;"	m
+pkgincludedir	preload/net/Makefile	/^pkgincludedir = $(includedir)\/bhook$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/bhook$/;"	m
+pkglibdir	preload/disk/Makefile	/^pkglibdir = $(libdir)\/bhook$/;"	m
+pkglibdir	preload/memory/Makefile	/^pkglibdir = $(libdir)\/bhook$/;"	m
+pkglibdir	preload/net/Makefile	/^pkglibdir = $(libdir)\/bhook$/;"	m
+prefix	Makefile	/^prefix = \/home\/w\/software\/bhook-1.0.0$/;"	m
+prefix	preload/disk/Makefile	/^prefix = \/home\/w\/software\/bhook-1.0.0$/;"	m
+prefix	preload/memory/Makefile	/^prefix = \/home\/w\/software\/bhook-1.0.0$/;"	m
+prefix	preload/net/Makefile	/^prefix = \/home\/w\/software\/bhook-1.0.0$/;"	m
+print_address	src/AsmHelper.cpp	/^void AsmHelper::print_address (bfd_vma addr, struct disassemble_info *info)$/;"	f	class:AsmHelper
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	preload/disk/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	preload/memory/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	preload/net/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+pthread_create	configure	/^pthread_create ();$/;"	f
+read	preload/disk/fault_disk_system.cpp	/^	ssize_t FAULT_(read)(int fd, void *buf, size_t count)$/;"	f
+read_done_callback	include/Message.h	/^	typedef int (*read_done_callback)(const FaultUnit &eu, char *outbuf, int bufsize);$/;"	t	class:Message
+realaddr	include/AsmHelper.h	/^		bfd_vma realaddr;	\/* 绝对地址 *\/$/;"	m	struct:AsmHelper::InstInfo
+realloc	preload/memory/fault_memory.cpp	/^	void *FAULT_(realloc)(void *ptr,size_t size)$/;"	f
+realname	include/BinaryFile.h	/^		std::string		realname;$/;"	m	struct:BinaryFile::RelSym
+recv	preload/net/fault_net.cpp	/^	ssize_t FAULT_(recv)(int s, void *buf, size_t len, int flags)$/;"	f
+recvfrom	preload/net/fault_net.cpp	/^	ssize_t FAULT_(recvfrom)(int s, void *buf, size_t len, int flags, struct sockaddr *from, socklen_t *fromlen)$/;"	f
+relsym_dict	include/BinaryFile.h	/^	typedef std::map<std::string, RelSym> relsym_dict;$/;"	t	class:BinaryFile
+ret_val	test/program/api/api.cpp	/^	int ret_val;$/;"	m	struct:Info	file:
+riprel	include/AsmHelper.h	/^		int riprel;		\/* 1=>存在相对偏移，0=>不存在相对偏移 *\/$/;"	m	struct:AsmHelper::InstInfo
+run	scripts/bhook	/^function run() {$/;"	f
+run	scripts/bhook.in	/^function run() {$/;"	f
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	preload/disk/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	preload/memory/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	preload/net/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+send	preload/net/fault_net.cpp	/^	ssize_t FAULT_(send)(int s, const void *buf, size_t len, int flags)$/;"	f
+send_cmds	scripts/bhook	/^function send_cmds() {$/;"	f
+send_cmds	scripts/bhook.in	/^function send_cmds() {$/;"	f
+sendto	preload/net/fault_net.cpp	/^	ssize_t FAULT_(sendto)(int s, const void *buf, size_t len, int flags, const struct sockaddr *to, socklen_t tolen)$/;"	f
+setEnable	include/FaultUnit.h	/^	void setEnable(int enable)$/;"	f	class:FaultUnit
+setError	include/FaultUnit.h	/^	void setError(int err)$/;"	f	class:FaultUnit
+setFaultUnit	src/Core.cpp	/^int Core::setFaultUnit(const FaultUnit &fu)$/;"	f	class:Core
+setName	include/FaultUnit.h	/^	void setName(const char *name)$/;"	f	class:FaultUnit
+setParam	include/FaultUnit.h	/^	void setParam(void *param) $/;"	f	class:FaultUnit
+setProbability	include/FaultUnit.h	/^	void setProbability(unsigned int probability)$/;"	f	class:FaultUnit
+setsockopt	preload/net/fault_net.cpp	/^	int FAULT_(setsockopt)(int s, int level, int optname, const void *optval, socklen_t *optlen)$/;"	f
+sh_entsize	include/elfdef.h	/^	unsigned long		sh_entsize;$/;"	m	struct:__anon2
+sh_link	include/elfdef.h	/^	unsigned int		sh_link;$/;"	m	struct:__anon2
+sh_offset	include/elfdef.h	/^	unsigned long		sh_offset;$/;"	m	struct:__anon2
+sh_size	include/elfdef.h	/^	unsigned long		sh_size;$/;"	m	struct:__anon2
+sh_type	include/elfdef.h	/^	unsigned int		sh_type;$/;"	m	struct:__anon2
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	preload/disk/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	preload/memory/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	preload/net/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+shndx	include/ELFManager.h	/^	unsigned short	shndx;$/;"	m	struct:elf_symbol
+size	include/BinaryFile.h	/^		unsigned long	size;$/;"	m	struct:BinaryFile::Symbol
+size	include/ELFManager.h	/^	unsigned long	size;$/;"	m	struct:elf_symbol
+socket	preload/net/fault_net.cpp	/^	int FAULT_(socket)(int domain, int type, int protocol)$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	preload/disk/Makefile	/^srcdir = .$/;"	m
+srcdir	preload/memory/Makefile	/^srcdir = .$/;"	m
+srcdir	preload/net/Makefile	/^srcdir = .$/;"	m
+st_info	include/elfdef.h	/^	unsigned char		st_info;$/;"	m	struct:__anon3
+st_name	include/elfdef.h	/^	unsigned long		st_name;$/;"	m	struct:__anon3
+st_shndx	include/elfdef.h	/^	unsigned int		st_shndx;$/;"	m	struct:__anon3
+st_size	include/elfdef.h	/^	unsigned long		st_size;$/;"	m	struct:__anon3
+st_value	include/elfdef.h	/^	unsigned long		st_value;$/;"	m	struct:__anon3
+start	test/program/api/api.cpp	/^	int start;$/;"	m	struct:Info	file:
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	preload/disk/Makefile	/^subdir = preload\/disk$/;"	m
+subdir	preload/memory/Makefile	/^subdir = preload\/memory$/;"	m
+subdir	preload/net/Makefile	/^subdir = preload\/net$/;"	m
+symbol_dict	include/BinaryFile.h	/^	typedef std::map<std::string, Symbol> symbol_dict;$/;"	t	class:BinaryFile
+symid	include/ELFManager.h	/^	unsigned long	symid;$/;"	m	struct:elf_relsym
+sys_hook_dict	include/HookImpl.h	/^	typedef std::map<void *, SysHookInfo> sys_hook_dict;$/;"	t	class:HookImpl
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	preload/disk/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	preload/memory/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	preload/net/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | bzip2 -9 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	preload/disk/Makefile	/^target_alias = $/;"	m
+target_alias	preload/memory/Makefile	/^target_alias = $/;"	m
+target_alias	preload/net/Makefile	/^target_alias = $/;"	m
+test_malloc	test/program/library/lib/mylib.cpp	/^void test_malloc()$/;"	f
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	preload/disk/Makefile	/^top_builddir = ..\/..$/;"	m
+top_builddir	preload/memory/Makefile	/^top_builddir = ..\/..$/;"	m
+top_builddir	preload/net/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	preload/disk/Makefile	/^top_srcdir = ..\/..$/;"	m
+top_srcdir	preload/memory/Makefile	/^top_srcdir = ..\/..$/;"	m
+top_srcdir	preload/net/Makefile	/^top_srcdir = ..\/..$/;"	m
+trampoline_func	include/HookImpl.h	/^		void	*trampoline_func;$/;"	m	struct:HookImpl::HookInfo
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	preload/disk/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	preload/memory/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	preload/net/Makefile	/^transform = $(program_transform_name)$/;"	m
+type	include/ELFManager.h	/^	unsigned char	type;$/;"	m	struct:elf_symbol
+type	include/ELFManager.h	/^	unsigned long	type;$/;"	m	struct:elf_relsym
+value	include/ELFManager.h	/^	unsigned long	value;$/;"	m	struct:elf_symbol
+write	preload/disk/fault_disk_system.cpp	/^	ssize_t FAULT_(write)(int fd, const void *buf, size_t count)$/;"	f
+~BinaryFile	src/BinaryFile.cpp	/^BinaryFile::~BinaryFile()$/;"	f	class:BinaryFile
+~ELFManager	include/ELFManager.h	/^	~ELFManager() {}$/;"	f	class:ELFManager
+~FaultUnit	src/FaultUnit.cpp	/^FaultUnit::~FaultUnit()$/;"	f	class:FaultUnit
+~HookImpl	src/HookImpl.cpp	/^HookImpl::~HookImpl()$/;"	f	class:HookImpl
+~HookManager	src/HookManager.cpp	/^HookManager::~HookManager()$/;"	f	class:HookManager
+~Message	src/Message.cpp	/^Message::~Message()$/;"	f	class:Message
+~Person	test/unittest/class/lib/mylib.h	/^	~Person() {}$/;"	f	class:MyLib::Person

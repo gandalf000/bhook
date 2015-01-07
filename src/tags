@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AttachFunc	HookImpl.cpp	/^int HookImpl::AttachFunc(void *func_plt, void *hook_func)$/;"	f	class:HookImpl
+AttachFunc	HookManager.cpp	/^int HookManager::AttachFunc(char *func_name, void *hook_func)$/;"	f	class:HookManager
+AttachFuncLib	HookImpl.cpp	/^int HookImpl::AttachFuncLib(const BinaryFile::Symbol &symbol, void *hook_func, void **pold_func)$/;"	f	class:HookImpl
+AttachFuncLib	HookManager.cpp	/^int HookManager::AttachFuncLib(char *func_name, void *hook_func, void **pold_func)$/;"	f	class:HookManager
+BinaryFile	BinaryFile.cpp	/^BinaryFile::BinaryFile()$/;"	f	class:BinaryFile
+Copy	AsmHelper.cpp	/^int AsmHelper::Copy(bfd_byte *buf, int bufsize, bfd *abfd, void *src, unsigned int minsize, int *src_dis_len)$/;"	f	class:AsmHelper
+Core	Core.cpp	/^Core::Core()$/;"	f	class:Core
+CreatePipe	Message.cpp	/^int Message::CreatePipe()$/;"	f	class:Message
+DMGL_ANSI	BinaryFile.cpp	17;"	d	file:
+DMGL_PARAMS	BinaryFile.cpp	16;"	d	file:
+DeletePipe	Message.cpp	/^void Message::DeletePipe()$/;"	f	class:Message
+Destroy	BinaryFile.cpp	/^void BinaryFile::Destroy()$/;"	f	class:BinaryFile
+Destroy	HookManager.cpp	/^void HookManager::Destroy()$/;"	f	class:HookManager
+Destroy	Message.cpp	/^void Message::Destroy()$/;"	f	class:Message
+DetachFunc	HookImpl.cpp	/^int HookImpl::DetachFunc(void *func_plt)$/;"	f	class:HookImpl
+DetachFunc	HookManager.cpp	/^int HookManager::DetachFunc(char *func_name)$/;"	f	class:HookManager
+DetachFuncLib	HookImpl.cpp	/^int HookImpl::DetachFuncLib(const BinaryFile::Symbol &symbol)$/;"	f	class:HookImpl
+DetachFuncLib	HookManager.cpp	/^int HookManager::DetachFuncLib(char *func_name)$/;"	f	class:HookManager
+Enable	FaultUnit.cpp	/^bool FaultUnit::Enable() const$/;"	f	class:FaultUnit
+FarJmp	AsmHelper.cpp	/^int AsmHelper::FarJmp(bfd_byte *buf, int bufsize, bfd_vma jmpaddr)$/;"	f	class:AsmHelper
+FaultUnit	FaultUnit.cpp	/^FaultUnit::FaultUnit($/;"	f	class:FaultUnit
+FaultUnit	FaultUnit.cpp	/^FaultUnit::FaultUnit()$/;"	f	class:FaultUnit
+GetRealFunc	HookManager.cpp	/^void *HookManager::GetRealFunc(char *func_name)$/;"	f	class:HookManager
+GetRealFuncLib	HookImpl.cpp	/^void * HookImpl::GetRealFuncLib(void *src_func)$/;"	f	class:HookImpl
+GetRealFuncLib	HookManager.cpp	/^void * HookManager::GetRealFuncLib(char *func_name)$/;"	f	class:HookManager
+HookImpl	HookImpl.cpp	/^HookImpl::HookImpl(bfd *abfd)$/;"	f	class:HookImpl
+HookManager	HookManager.cpp	/^HookManager::HookManager()$/;"	f	class:HookManager
+IOCtrl	Message.cpp	/^int Message::IOCtrl(int io, char *buf, int bufsize)$/;"	f	class:Message
+Init	BinaryFile.cpp	/^int BinaryFile::Init(char *filename)$/;"	f	class:BinaryFile
+Init	Core.cpp	/^int Core::Init()$/;"	f	class:Core
+Init	HookManager.cpp	/^int HookManager::Init()$/;"	f	class:HookManager
+Init	Message.cpp	/^int Message::Init(read_done_callback cb)$/;"	f	class:Message
+InitRelsym	BinaryFile.cpp	/^int BinaryFile::InitRelsym(relsym_dict &rels)$/;"	f	class:BinaryFile
+InitSymbols	BinaryFile.cpp	/^int BinaryFile::InitSymbols(symbol_dict &symbols, int sym_flag)$/;"	f	class:BinaryFile
+Message	Message.cpp	/^Message::Message()$/;"	f	class:Message
+Parse	Message.cpp	/^int Message::Parse(char *command, FaultUnit *fu) $/;"	f	class:Message
+Process	Message.cpp	/^int Message::Process(char *command, bool bout)$/;"	f	class:Message
+ReadDoneCallBack	Core.cpp	/^int Core::ReadDoneCallBack(const FaultUnit &fu, char *outbuf, int bufsize)$/;"	f	class:Core
+Release	Core.cpp	/^void Core::Release()$/;"	f	class:Core
+SetProt	HookImpl.cpp	/^int HookImpl::SetProt(const void *addr, size_t len, int prot)$/;"	f	class:HookImpl
+Update	FaultUnit.cpp	/^int FaultUnit::Update(const FaultUnit &fu)$/;"	f	class:FaultUnit
+_inst_info	AsmHelper.cpp	/^struct AsmHelper::InstInfo AsmHelper::_inst_info;$/;"	m	class:AsmHelper	typeref:struct:AsmHelper::	file:
+_inst_lock	Core.cpp	/^pthread_mutex_t Core::_inst_lock = PTHREAD_MUTEX_INITIALIZER;$/;"	m	class:Core	file:
+_instance	Core.cpp	/^Core * Core::_instance = NULL;$/;"	m	class:Core	file:
+attach_func	bhook.cpp	/^int attach_func(char *func_name, void *hook_func)$/;"	f
+attach_func_lib	bhook.cpp	/^int attach_func_lib(char *func_name, void *hook_func)$/;"	f
+buffer_read_memory	AsmHelper.cpp	/^int AsmHelper::buffer_read_memory (bfd_vma memaddr,$/;"	f	class:AsmHelper
+cmd_monitor_thread	Message.cpp	/^void * Message::cmd_monitor_thread(void *ptr)$/;"	f	class:Message
+detach_func	bhook.cpp	/^int detach_func(char *func_name)$/;"	f
+detach_func_lib	bhook.cpp	/^int detach_func_lib(char *func_name)$/;"	f
+elf_canonicalize_relsym	ELFManager.cpp	/^int ELFManager::elf_canonicalize_relsym(erelsym **rel_table, int max_count)$/;"	f	class:ELFManager
+elf_canonicalize_symbol	ELFManager.cpp	/^int ELFManager::elf_canonicalize_symbol(esymbol **symbol_table, int unsigned type)$/;"	f	class:ELFManager
+elf_canonicalize_symtab	ELFManager.cpp	/^int ELFManager::elf_canonicalize_symtab(esymbol **symbol_table)$/;"	f	class:ELFManager
+elf_close	ELFManager.cpp	/^void ELFManager::elf_close()$/;"	f	class:ELFManager
+elf_get_relsym_upper_bound	ELFManager.cpp	/^int ELFManager::elf_get_relsym_upper_bound(int *pcount)$/;"	f	class:ELFManager
+elf_get_section_upper_bound	ELFManager.cpp	/^int ELFManager::elf_get_section_upper_bound(unsigned int type, int *pcount)$/;"	f	class:ELFManager
+elf_get_symtab_upper_bound	ELFManager.cpp	/^int ELFManager::elf_get_symtab_upper_bound()$/;"	f	class:ELFManager
+elf_open	ELFManager.cpp	/^int ELFManager::elf_open(const char *filename)$/;"	f	class:ELFManager
+elf_read	ELFManager.cpp	/^int ELFManager::elf_read(int pos, void *buf, int count)$/;"	f	class:ELFManager
+elf_read_ehdr	ELFManager.cpp	/^int ELFManager::elf_read_ehdr(Elf_Ehdr &ehdr)$/;"	f	class:ELFManager
+elf_read_shdrs	ELFManager.cpp	/^int ELFManager::elf_read_shdrs(Elf_Shdr *shdrs, unsigned int shnum)$/;"	f	class:ELFManager
+fault_ctrl	bhook.cpp	/^inline int fault_ctrl(const char *name, int enable, unsigned int probability, int err, void *param)$/;"	f
+fault_disable	bhook.cpp	/^int fault_disable(const char *name)$/;"	f
+fault_enable	bhook.cpp	/^int fault_enable(const char *name, unsigned int probability, int err, void *param)$/;"	f
+fault_fail	bhook.cpp	/^int fault_fail(const char *name, int *perr, void **pparam)$/;"	f
+getFaultUnit	Core.cpp	/^const FaultUnit * Core::getFaultUnit(string key)$/;"	f	class:Core
+getInstance	Core.cpp	/^Core * Core::getInstance()$/;"	f	class:Core
+getRelocs	BinaryFile.cpp	/^int BinaryFile::getRelocs(char *symbol_name, RelSym &relsym)$/;"	f	class:BinaryFile
+getSymbol	BinaryFile.cpp	/^int BinaryFile::getSymbol(char *symbol_name, Symbol &symbol)$/;"	f	class:BinaryFile
+getSymbol	HookManager.cpp	/^void * HookManager::getSymbol(char *symbol_name)$/;"	f	class:HookManager
+get_real_func	bhook.cpp	/^void *get_real_func(char *func_name)$/;"	f
+get_real_func_lib	bhook.cpp	/^void *get_real_func_lib(char *func_name)$/;"	f
+main_fini	Core.cpp	/^void __attribute__ ((destructor)) main_fini()$/;"	f
+main_init	Core.cpp	/^void __attribute__ ((constructor)) main_init()$/;"	f
+print_address	AsmHelper.cpp	/^void AsmHelper::print_address (bfd_vma addr, struct disassemble_info *info)$/;"	f	class:AsmHelper
+setFaultUnit	Core.cpp	/^int Core::setFaultUnit(const FaultUnit &fu)$/;"	f	class:Core
+~BinaryFile	BinaryFile.cpp	/^BinaryFile::~BinaryFile()$/;"	f	class:BinaryFile
+~FaultUnit	FaultUnit.cpp	/^FaultUnit::~FaultUnit()$/;"	f	class:FaultUnit
+~HookImpl	HookImpl.cpp	/^HookImpl::~HookImpl()$/;"	f	class:HookImpl
+~HookManager	HookManager.cpp	/^HookManager::~HookManager()$/;"	f	class:HookManager
+~Message	Message.cpp	/^Message::~Message()$/;"	f	class:Message
